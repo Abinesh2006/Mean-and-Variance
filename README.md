@@ -1,6 +1,6 @@
 #  Exp 1: Mean and variance of a discrete  distribution
 
-# Date:25.08.23
+# Date:28.09.24
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : 34901191
+Reference number : 24901191
 ```
 ```py
 import numpy as np
